@@ -8,6 +8,14 @@ table.a { width: 100%; }
 img.b {width: 180px; }
 td.c {font-family: sans-serif; font-size: 18pt;
       font-style: italic; color: #980974; padding-left: 1ex; }
+table.m { width: 100%; border-collapse: collapse;}
+td.m1 {width:12.5%; color: #F2EE83; background-color: #28336B;
+      text-align: center; font-family: sans-serif;
+      padding-top: 10px; padding-bottom: 10px;
+      border-left: 2px solid black;
+      border-right: 2px solid black;}
+td.m2 {width:12.5%; color: white; background-color: #28336B;
+      text-align: center; font-family: sans-serif;}
 -->
 </style>
 </head>
@@ -17,9 +25,20 @@ td.c {font-family: sans-serif; font-size: 18pt;
 <tr> <td>
   <table> <tr> <td> <img class="b" src="image/B&Wlogo"> </td>
   <td class="c"> Where 1000s od butterflies take flight! </td> </tr>
+  </table>
 </td> </tr>
 
-<tr> <td> </td> </tr>
+<tr> <td> 
+<table class="m">
+<tr>
+<td class="m1"> Home </td><td class="m2"> Our Story </td>
+<td class="m2"> Admission </td><td class="m2"> Events</td>
+<td class="m2"> Butterfly Shop </td><td> Forum </td>
+<td class="m2"> Contact Us </td><td></td>
+</tr>
+</table>
+</td> </tr>
+      
 <tr> <td> </td> </tr>
 <tr> <td> </td> </tr>
 </body>
