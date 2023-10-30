@@ -1,4 +1,5 @@
 This repository contains programs from my undergraduate coding classes. They are organized into folders by course:
+* [Intoduction to Bioinformatics](IntroToBioinformatics): python coding for simple bioinformatic problems
 * [Data Structures](DataStructures): an introductory python class
 * [Object Orientated Programming](ObjectOrientatedProgramming): an introductory java class
 * [Web and Database Development](WebAndDatabaseDevelopment): covers HTML, CSS, JavaScript, and SQL
@@ -13,6 +14,11 @@ java Project1.java
 ```
 For the Web and Database Development class, the programs will run by double clicking the downloaded document in the files application. Program 1 will not run correctly as it requires particular image files.
 ## Assignments
+### Introduction to Bioinformatics
+* [Program 1](IntroToBioinformatics/Project1-GCcalculator.py): A GC% calculator
+* [Program 2](IntroToBioinformatics/Project2-GCpercent.py): A GC% calculator using argparse
+* [Program 3](IntroToBioinformatics/Project3-JupyterPlot.ipynb): Jupyter Lab notebook file for creating a graph
+* [Program 4](IntroToBioinformatics/Project4-GCskew.py): A GC skew calculator
 ### Data Structures
 * [Program 1](DataStructures/Project1-Lists.py): Lists
 * [Program 2](DataStructures/Project2-Dictionaries.py): Dictionaries
