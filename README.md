@@ -5,6 +5,7 @@ This repository contains programs from my undergraduate coding classes. They are
 * [Web and Database Development](WebAndDatabaseDevelopment): covers HTML, CSS, JavaScript, and SQL
 ## Running the assignments
 For the Introduction to Bioinformatics class, specific instructions for running (such as file types required) are commented at the top of the program. Program 1 is the most simplistic and will not run in the terminal. The Jupyter Lab notebook file will not run either because of its file type, but that was the submission requirement for that program. All other programs for this class will run in the terminal. 
+
 For the Data Structures class, only programs 4 and 5 will run. The rest require accompanying external text files (used as data for the project scenarios) that are no longer available to me. Programs 4 and 5 will run in the terminal with:
 ```{shell}
 python Project4-Stack.py
