@@ -34,6 +34,7 @@ For the Web and Database Development class, the programs will run by double clic
 * [Program 3](ObjectOrientatedProgramming/Project3.java): Methods and loops
 * [Program 4](ObjectOrientatedProgramming/Project4): Shapes
 * [Program 5](ObjectOrientatedProgramming/Project5): GUI
-* Program 6: Arrays
+* [Program 6](ObjectOrientatedProgramming/Project6): Data Structures
 ### Web and Database Development
 * [Program 1](WebAndDatabaseDevelopment/index.html): HTML
+* [Program 2](WebAndDatabaseDevelopment/yahtzee.html): Javascript
