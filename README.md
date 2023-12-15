@@ -38,4 +38,4 @@ For the Web and Database Development class, the programs will run by double clic
 ### Web and Database Development
 * [Program 1](WebAndDatabaseDevelopment/index.html): HTML
 * [Program 2](WebAndDatabaseDevelopment/yahtzee.html): Javascript
-* [Program 3](WebAndDatabaseDevelopment/Program 3): SQL
+* [Program 3](WebAndDatabaseDevelopment/Program3): SQL
